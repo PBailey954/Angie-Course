@@ -1,0 +1,15 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit:cover
+
+}
+h3:hover{
+    color: darkcyan;
+}
+
+th{
+    text-align: left;
+    padding-bottom: 30px;
+}
